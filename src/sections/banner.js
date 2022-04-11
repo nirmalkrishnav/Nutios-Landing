@@ -24,7 +24,7 @@ const Banner = () => {
         <Box sx={styles.contentWrapper}>
           <Box sx={styles.content}>
             <Heading as="h1">
-              Build your audience &amp; grow your business online smarter
+              Manage your practise easily  
             </Heading>
             <Text as="p">
               Get your blood tests delivered at let home collect sample from the

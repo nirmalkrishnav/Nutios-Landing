@@ -11,12 +11,13 @@ export default [
     path: 'features',
     label: 'Features',
   },
-  {
-    path: 'blog',
-    label: 'Blog',
-  },
-  {
-    path: 'login',
-    label: 'Login',
-  },
+  {}
+  // {
+  //   path: 'blog',
+  //   label: 'Blog',
+  // },
+  // {
+  //   path: 'login',
+  //   label: 'Login',
+  // },
 ];
